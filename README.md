@@ -1,2 +1,2 @@
-# geovanevitor-index.html
+# geovanevitor/index.html
 Currículo
